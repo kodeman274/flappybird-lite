@@ -22,7 +22,7 @@ Flappy Bird Lite is a simple yet addictive game built using HTML, CSS, and JavaS
 - JavaScript
 
 ## Features
-- Responsive design that works on both desktop and mobile browsers.
+- This Web design is not yet responsive for smartphones that work in new browsers can be desktops
 - Simple and intuitive controls that are easy to learn.
 - Challenging gameplay that tests your timing and reflexes.
 
