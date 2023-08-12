@@ -27,21 +27,16 @@ Flappy Bird Lite is a simple yet addictive game built using HTML, CSS, and JavaS
 - Challenging gameplay that tests your timing and reflexes.
 
 ## Demo
-[Play the Game](link-to-your-game)
+[[Play the Game](link-to-your-game)](https://flappybird-lite.kodeman274.repl.co/)
 
 ## Screenshots
-![Gameplay Screenshot](screenshot.png)
+<img width="1461" alt="Screen Shot 2023-08-13 at 00 40 28" src="https://github.com/kodeman274/flappybird-lite/assets/99820483/6e511af3-06be-4a53-be66-53a3d22b2f40">
+
 
 ## Credits
 - Game concept and mechanics inspired by the original Flappy Bird game.
 - Bird character sprite and background images from [source-link].
 - Sound effects obtained from [source-link].
 
-## License
-This game is released under the [license-name] license. Feel free to use and modify the code according to the terms of the license.
 
-## Author
-Created by [Your Name]. Connect with me on [LinkedIn](link-to-your-linkedin-profile)!
-
-Enjoy the game and happy flapping!
 
