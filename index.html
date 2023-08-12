@@ -1,0 +1,48 @@
+<html>
+  <head>
+    <title>Flappy Bird Lite</title>
+    <link rel="stylesheet" href="Flaapy_Bird/style.css" />
+    <link
+      rel="icon"
+      href="https://github.com/kodeman274/portofolio-web.io/assets/99820483/bfc124d0-2ef3-447b-a0f0-5c355fbc4c1f"
+    />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  </head>
+  <body>
+    <div class="canvas-container">
+      <div class="score-board">
+        <h1>Flappy Bird Lite</h1>
+      </div>
+
+      <div class="rules-board">
+        <marquee behavior="alternate" direction="" scrollamount="15"
+          ><h1>Cara Bermain</h1></marquee
+        >
+        <div class="list">
+          <ul>
+            <li style="color: rgb(32, 206, 35)">
+              1. Mulai dengan klik button Play!
+            </li>
+            <li>2. Tekan terus tombol space untuk membuat karakter lompat</li>
+            <li>3. Lakukan berulang sampai mendapat score yang banyak</li>
+            <li>4. Jika Game Over tekan kembali button Replay</li>
+            <li>5. Have fun...</li>
+          </ul>
+        </div>
+      </div>
+      <canvas
+        id="canvas"
+        width="288"
+        height="512"
+        style="border: 1px solid black"
+      >
+      </canvas>
+
+      <div class="game-over">
+        <button id="start">Play</button>
+      </div>
+    </div>
+  </body>
+  <script src="Flaapy_Bird\js\flip.js"></script>
+</html>
