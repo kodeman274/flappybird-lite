@@ -30,7 +30,8 @@ Flappy Bird Lite is a simple yet addictive game built using HTML, CSS, and JavaS
 [[Play the Game](link-to-your-game)](https://flappybird-lite.kodeman274.repl.co/)
 
 ## Screenshots
-<img width="1461" alt="Screen Shot 2023-08-13 at 00 40 28" src="https://github.com/kodeman274/flappybird-lite/assets/99820483/6e511af3-06be-4a53-be66-53a3d22b2f40">
+![Uploading Screen Shot 2023-08-13 at 22.59.45.png…]()
+
 
 
 ## Credits
