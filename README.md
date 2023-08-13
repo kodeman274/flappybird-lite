@@ -35,8 +35,7 @@ Flappy Bird Lite is a simple yet addictive game built using HTML, CSS, and JavaS
 
 ## Credits
 - Game concept and mechanics inspired by the original Flappy Bird game.
-- Bird character sprite and background images from [source-link].
-- Sound effects obtained from [source-link].
+
 
 
 
