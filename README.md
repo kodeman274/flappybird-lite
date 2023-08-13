@@ -1,7 +1,7 @@
 # Flappy Bird Lite Game
 
 ## Overview
-Flappy Bird Lite is a simple yet addictive game built using HTML, CSS, and JavaScript. The game is inspired by the classic Flappy Bird game, where players control a bird and navigate it through obstacles to earn a high score. This lightweight version brings the fun of the original game to your browser.
+Flappy Bird Lite is a simple yet addictive game built using HTML, CSS, and JavaScript. This project Utilizes the Canvas element applying Graphics and Visuals to the images used. The game is inspired by the classic Flappy Bird game, where players control a bird and navigate it through obstacles to earn a high score. This lightweight version brings the fun of the original game to your browser.
 
 ## How to Play
 1. Click the "Play!" button to start the game.
